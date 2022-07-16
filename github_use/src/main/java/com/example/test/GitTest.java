@@ -9,9 +9,6 @@ public class GitTest {
 
         System.out.println("push by ssh");
 
-        System.out.println("push by ssh");
-
-        System.out.println("7/16-17:21");
         //something has happened
 
 
