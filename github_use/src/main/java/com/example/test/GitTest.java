@@ -9,6 +9,8 @@ public class GitTest {
 
         System.out.println("push by ssh");
 
+        System.out.println("2022.0818 . isStart");
+
 
 
         //something has happened
