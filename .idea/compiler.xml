@@ -2,16 +2,18 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="github_use" />
-        <module name="spring_web_use" />
+        <module name="spring_ali_use" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="github_use" target="8" />
+      <module name="spring_ali_use" target="1.8" />
       <module name="spring_web_use" target="8" />
     </bytecodeTargetLevel>
   </component>

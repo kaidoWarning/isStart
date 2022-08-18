@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/github_use/github_use.iml" filepath="$PROJECT_DIR$/github_use/github_use.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring_web_use/spring_web_use.iml" filepath="$PROJECT_DIR$/spring_web_use/spring_web_use.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_ali_use/spring_ali_use.iml" filepath="$PROJECT_DIR$/spring_ali_use/spring_ali_use.iml" />
     </modules>
   </component>
 </project>
