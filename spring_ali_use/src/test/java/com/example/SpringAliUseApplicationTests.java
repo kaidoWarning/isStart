@@ -8,6 +8,8 @@ class SpringAliUseApplicationTests {
 
     @Test
     void contextLoads() {
+
+        System.out.println("is a test ");
     }
 
 }
