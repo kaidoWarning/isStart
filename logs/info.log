@@ -1,0 +1,12 @@
+2022-08-21 13:07:48.679 [main] INFO  com.example.SpringAliUseApplication-Starting SpringAliUseApplication on DESKTOP-0OHU1MT with PID 8948 (D:\workbanch\isStart\spring_ali_use\target\classes started by 24237 in D:\workbanch\isStart)
+2022-08-21 13:07:48.681 [main] INFO  com.example.SpringAliUseApplication-No active profile set, falling back to default profiles: default
+2022-08-21 13:07:49.558 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer-Tomcat initialized with port(s): 8080 (http)
+2022-08-21 13:07:49.568 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Initializing ProtocolHandler ["http-nio-8080"]
+2022-08-21 13:07:49.569 [main] INFO  org.apache.catalina.core.StandardService-Starting service [Tomcat]
+2022-08-21 13:07:49.571 [main] INFO  org.apache.catalina.core.StandardEngine-Starting Servlet engine: [Apache Tomcat/9.0.41]
+2022-08-21 13:07:49.678 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]-Initializing Spring embedded WebApplicationContext
+2022-08-21 13:07:49.678 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext-Root WebApplicationContext: initialization completed in 949 ms
+2022-08-21 13:07:49.822 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor-Initializing ExecutorService 'applicationTaskExecutor'
+2022-08-21 13:07:50.068 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Starting ProtocolHandler ["http-nio-8080"]
+2022-08-21 13:07:50.097 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer-Tomcat started on port(s): 8080 (http) with context path ''
+2022-08-21 13:07:50.106 [main] INFO  com.example.SpringAliUseApplication-Started SpringAliUseApplication in 1.938 seconds (JVM running for 3.397)
